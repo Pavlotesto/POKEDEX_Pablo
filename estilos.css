@@ -1,0 +1,286 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: "Luckiest Guy"
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start; 
+    height: 100vh; 
+}
+
+.titulo {
+        font-family: "Staatliches", sans-serif;
+        font-weight: 2000;
+        font-style: normal;
+        text-align: center;
+        color: yellow; 
+        text-shadow: -2px -2px 0 #007bff,  
+                  2px -2px 0 #007bff,
+                 -2px 2px 0 #007bff,
+                  2px 2px 0 #007bff; 
+}
+.titulo2 {
+    font-family: "Luckiest Guy", cursive;
+    font-size: 40px; 
+    color: yellow; 
+    text-shadow: -2px -2px 0 #007bff,  
+                  2px -2px 0 #007bff,
+                 -2px 2px 0 #007bff,
+                  2px 2px 0 #007bff; /
+}
+.luckiest-guy-regular {
+    font-family: "Luckiest Guy", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+.pokedex1{
+    position: absolute;
+    top: 20%;
+    right: 0;
+    transform: translateY(-50%);
+    width: 20%;
+    margin-right: 15%;
+    margin-top: 15%;
+}
+.estilos-menus{
+    font-family: "Luckiest Guy", cursive;
+    font-size: 30px; 
+    color: blue; 
+        text-shadow: -2px -2px 0 yellow,  
+                     2px -2px 0 yellow,
+                     -2px 2px 0 yellow,
+                     2px 2px 0 yellow; 
+}
+.charmander1{
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+    width: 50%;
+}
+
+.textosparagrafos {
+    font-family: "Bungee Spice", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: right; 
+    padding: 20px;
+    position: absolute;
+    top: 40%;
+    right: 0;
+    transform: translateY(-50%);
+   font-size: 30px;
+   width: 50%;
+   color: blue; 
+        text-shadow: -2px -2px 0 white,  
+                     2px -2px 0 white,
+                     -2px 2px 0 white,
+                     2px 2px 0 white; 
+  }
+
+.honk-uniquifier{
+  font-family: "Honk", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "MORF" 15,
+    "SHLN" 50;
+}
+.estilos-menus2{
+    font-family: "Luckiest Guy", cursive;
+    font-size: 30px; 
+    text-align: right; 
+    padding: 20px;
+    position: absolute;
+    top: 70%;
+    right: 0;
+    transform: translateY(-50%);
+   font-size: 30px;
+   width: 50%;
+   color: yellow; 
+        text-shadow: -2px -2px 0 #007bff,  
+                     2px -2px 0 #007bff,
+                     -2px 2px 0 #007bff,
+                     2px 2px 0 #007bff; 
+}
+.estilos-menus3{
+    font-family: "Luckiest Guy", cursive;
+    font-size: 30px; 
+    text-align: right; 
+    padding: 20px;
+    position: absolute;
+    top: 90%;
+    right: 0;
+    transform: translateY(-50%);
+   font-size: 30px;
+   width: 50%;
+   color: yellow; 
+        text-shadow: -2px -2px 0 #007bff,  
+                     2px -2px 0 #007bff,
+                     -2px 2px 0 #007bff,
+                     2px 2px 0 #007bff; 
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+}
+.charmeleon {
+    width: 700px; 
+    height: auto; 
+    position: absolute;
+    top: 60%;
+    left: -5%;
+    transform: translateY(-50%);
+}
+.estilos-menus4{
+    font-family: "Luckiest Guy", cursive;
+    font-size: 30px; 
+    text-align: right; 
+    padding: 20px;
+    position: absolute;
+    top: 80%;
+    right: 0;
+    transform: translateY(-50%);
+   font-size: 30px;
+   width: 50%;
+   color: yellow; 
+        text-shadow: -2px -2px 0 #007bff,  
+                     2px -2px 0 #007bff,
+                     -2px 2px 0 #007bff,
+                     2px 2px 0 #007bff; 
+}
+.charizard {
+    width: 700px; 
+    height: auto; 
+    position: absolute;
+    top: 55%;
+    left: -5%;
+    transform: translateY(-50%);
+}
+.squirtle {
+    width: 500px; 
+    height: auto; 
+    position: absolute;
+    top: 55%;
+    left: 5%;
+    transform: translateY(-50%);
+}
+.imagenes {
+    height: 1000%;
+    width: 1000%;
+}
+.derecho {
+    margin-left: 20%;
+}
+.charmeleonimagen{
+    margin-left: -40%;
+    margin-top: -10%;
+}
+
+.PPP{
+    font-size: 50px;
+    font-family: "Luckiest Guy", cursive;
+    color: yellow;
+    text-align: center;
+    text-shadow: -2px -2px 0 #007bff,  
+                  2px -2px 0 #007bff,
+                 -2px 2px 0 #007bff,
+                  2px 2px 0 #007bff; /
+}
+.haunterimg {
+    width: 600px;
+    height: auto;
+    margin-right: 45%;
+    margin-bottom: 9%;
+}
+.charmander1{
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+    width: 50%;
+    margin-left: 8%;
+}
+.gastly {
+    width: 300px;
+    height: auto;
+    margin-right: 50%;
+    margin-bottom: 10%;
+}
+.vaporeon {
+    width: 350px;
+    height: auto;
+    margin-right: 45%;
+    margin-bottom: 10%;
+}
+.titulosini {
+    margin-left: 1%;
+    font-family: "Luckiest Guy", cursive;
+    font-size: 40px; 
+    color: yellow; 
+    text-shadow: -2px -2px 0 #007bff,  
+                  2px -2px 0 #007bff,
+                 -2px 2px 0 #007bff,
+                  2px 2px 0 #007bff; /
+}
+.bulbasaur {
+    width: 350px;
+    height: auto;
+    margin-right: 50%;
+    margin-bottom: 10%;
+}
+.tipos {
+    position: absolute;
+    left: 250px;
+    top: 560px;
+    width: 100px;
+    height: auto;
+}
+.tipos2 {
+    position: absolute;
+    left: 370px;
+    top: 560px;
+    width: 100px;
+    height: auto;
+}
+.venasaur {
+    width: 400px;
+    height: auto;
+    position: absolute;
+    left: 200px;
+    bottom: 200px;
+}
+.charmander {
+    width: 350px;
+    height: auto;
+    position: absolute;
+    left: 100px;
+    top: -200px;
+}
+.fuego {
+   position: relative;
+   top: 260px;
+   left: 200px;
+   width: 100px;
+   height: auto;
+}
+.fuego2 {
+    position: relative;
+    top: 190px;
+    left: -400px;
+    width: 100px;
+    height: auto;
+ }
+ .charmander2 {
+    width: 550px;
+    height: auto;
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    }
